@@ -52,7 +52,7 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages (8)
+### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-0B0F14?style=for-the-badge&logo=python&logoColor=00E5FF"/>
   <img src="https://img.shields.io/badge/JavaScript-0B0F14?style=for-the-badge&logo=javascript&logoColor=00E5FF"/>
@@ -64,7 +64,6 @@
   <img src="https://img.shields.io/badge/SQL-0B0F14?style=for-the-badge&logo=postgresql&logoColor=00E5FF"/>
 </p>
 
-> Kalau 8 bahasa kamu berbeda dari list ini, sebutkan 8-nya—aku rapihin biar akurat.
 
 ### 🌐 Backend & Full-Stack
 <p>
@@ -96,7 +95,7 @@
   <img src="https://img.shields.io/badge/Burp%20Suite-0B0F14?style=for-the-badge&logo=burpsuite&logoColor=FF2D95"/>
 </p>
 
-### 🤖 Robotics / Embedded (Optional)
+### 🤖 Robotics 
 <p>
   <img src="https://img.shields.io/badge/Arduino-0B0F14?style=for-the-badge&logo=arduino&logoColor=00E5FF"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-0B0F14?style=for-the-badge&logo=raspberrypi&logoColor=00E5FF"/>
@@ -112,7 +111,7 @@
 
 ---
 
-## 📌 Featured Projects (Pin your best 4–6)
+## 📌 Featured Projects 
 - 🛡️ **Blue Team Lab** — detection notes, log hunting, hardening checklist, incident response playbooks  
 - ⚙️ **Backend Service** — REST/GraphQL API, auth, caching, CI/CD  
 - 🌐 **Full-Stack App** — dashboard, realtime, role-based access  
@@ -134,9 +133,8 @@
 ---
 
 ## 📫 Connect
-- LinkedIn: https://linkedin.com/in/<your-link>
 - Portfolio: https://<your-site>
-- Email: <your-email>
+- Email: <your-email>oren22741@gmail.com
 
 ---
 
