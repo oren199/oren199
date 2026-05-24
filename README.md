@@ -17,9 +17,6 @@
   <a href="https://github.com/niel.dv">
     <img src="https://komarev.com/ghpvc/?username=niel.dv&label=Profile%20Views&color=00E5FF&style=flat" alt="profile views" />
   </a>
-  <a href="https://github.com/niel.dv?tab=followers">
-    <img src="https://img.shields.io/github/followers/niel.dv?label=Followers&style=flat&color=7C4DFF" alt="followers" />
-  </a>
   <img src="https://img.shields.io/badge/Focus-Blue%20Team%20%7C%20Engineering-111?style=flat&labelColor=000000&color=00E5FF" />
 </p>
 
